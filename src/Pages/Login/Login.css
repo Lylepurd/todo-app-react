@@ -1,0 +1,21 @@
+#log-btn {
+  color: black;
+  border: 1px solid black;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 14rem;
+  border: 2px solid black;
+  padding: 1rem;
+}
+
+input {
+  margin-bottom: 2rem;
+}
+
+button {
+  margin-top: 1rem;
+}
